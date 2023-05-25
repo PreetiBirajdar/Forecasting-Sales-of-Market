@@ -28,6 +28,22 @@ The following technologies and tools were utilized for this project:
 6. Scikit-learn: Library for machine learning algorithms and model evaluation.
 
 
+
+Screenshots Here are some screenshots of the Netflix dashboard showcasing the different visualizations and insights:
+
+Screenshot 1:
+![image](https://github.com/PreetiBirajdar/Forecasting-Sales-of-Market/assets/83277480/cdc2cacc-295f-46f6-a576-1ee8a371f237)
+
+
+Screenshot 2:
+![image](https://github.com/PreetiBirajdar/Forecasting-Sales-of-Market/assets/83277480/da9f3dfc-369b-4768-a5e5-c53388d26951)
+
+
+Screenshot 3:
+![image](https://github.com/PreetiBirajdar/Forecasting-Sales-of-Market/assets/83277480/08e73dca-43cf-4eeb-b069-19c6d700cb64)
+
+
+
 Results and Findings
 The results and findings of the market sales forecasting project are summarized as follows:
 1. Evaluation of the forecasting model's performance, including metrics such as mean absolute error (MAE), root mean squared error (RMSE), and others.

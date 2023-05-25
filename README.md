@@ -44,8 +44,4 @@ Screenshot 3:
 
 
 
-Results and Findings
-The results and findings of the market sales forecasting project are summarized as follows:
-1. Evaluation of the forecasting model's performance, including metrics such as mean absolute error (MAE), root mean squared error (RMSE), and others.
-2. Insights into market trends, seasonality, and potential future sales performance.
-3. Identification of important factors influencing sales and their impact on the forecasts.
+

@@ -29,7 +29,7 @@ The following technologies and tools were utilized for this project:
 
 
 
-Screenshots Here are some screenshots of the Netflix dashboard showcasing the different visualizations and insights:
+Screenshots Here are some screenshots of the project showcasing the different visualizations and insights:
 
 Screenshot 1:
 ![image](https://github.com/PreetiBirajdar/Forecasting-Sales-of-Market/assets/83277480/cdc2cacc-295f-46f6-a576-1ee8a371f237)
